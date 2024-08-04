@@ -1,0 +1,23 @@
+{
+  "name": "jest_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitheryjibits/jest_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blitheryjibits/jest_practice/issues"
+  },
+  "homepage": "https://github.com/blitheryjibits/jest_practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
